@@ -30,7 +30,7 @@ In order to draw a single line on the left and right lanes, draw_lines() functio
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-One potential shortcoming would be robustious, it can only detect the line in the Region of interest.
+One potential shortcoming would be robustness, it can only detect the line in the Region of interest.
 
 Other potensial shortcoming is cury roads and lanemarks.
 
